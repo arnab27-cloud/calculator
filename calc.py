@@ -1,5 +1,4 @@
-print("python3")
-print("my first simple calculator")
+print("python3-calculator")
 print("function: sum(+), substract(-), product(*), quotient(/)")
 x = None  #1st variable
 y = None  #2nd variable
